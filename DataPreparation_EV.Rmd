@@ -1,0 +1,23 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+file.choose()
+```
+
+```{r}
+EV<- read.csv("C:\\\\SEM4\\ElectricCarData_Clean.csv")
+EV
+```
+
+```{r}
+colSums(is.na.data.frame(EV))
+```
+
+```{r}
+# Replace NA values with 0
+EV[is.na.data.frame(EV)] <- 0
+EV
+```
