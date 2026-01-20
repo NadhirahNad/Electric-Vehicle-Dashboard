@@ -22,16 +22,16 @@ An interactive **R Shiny Dashboard** for exploring **Electric Vehicle (EV) datas
 ## Dashboard Overview
 
 ### Page 1: Basic Description Dataset
-![Page 1]("C:\Users\Nadhirah\OneDrive\Documents\KAKAK\PROJECTS\Electric Vehicle Project\DashboardPic\EV1.png")
+![Page 1](DashboardPic/EV1.png)
 
 ### Page 2: Price Analysis by Continent
-![Page 2](DashboardPic\EV2.png)
+![Page 2](DashboardPic/EV2.png)
 
 ### Page 3: Performance Analysis with Power Train
-![Page 3](DashboardPic\EV3.png)
+![Page 3](DashboardPic/EV3.png)
 
 ### Page 4: Efficiency Analysis with Plug Type
-![Page 4](DashboardPic\EV4.png)
+![Page 4](DashboardPic/EV4.png)
 
 > Add your own screenshots by saving them in the `images/` folder.
 
