@@ -12,7 +12,7 @@ library(RColorBrewer)
 
 
 ## Import dataframe
-EV <- read.csv("C:\\Users\\Nadhirah\\Downloads\\ElectricCarData_Clean.csv")
+EV <- read.csv("C:\\Users\\Nadhirah\\OneDrive\\Documents\\KAKAK\\PROJECTS\\Electric Vehicle Project\\ElectricCarData_Clean.csv")
 colSums(is.na(EV))
 EV[is.na(EV)] <- 0
 
