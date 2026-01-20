@@ -33,7 +33,6 @@ An interactive **R Shiny Dashboard** for exploring **Electric Vehicle (EV) datas
 ### Page 4: Efficiency Analysis with Plug Type
 ![Page 4](DashboardPic/EV4.png)
 
-> Add your own screenshots by saving them in the `images/` folder.
 
 ---
 
